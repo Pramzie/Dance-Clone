@@ -1,0 +1,14 @@
+opencv-python
+mediapipe
+numpy
+matplotlib
+
+pip install opencv-python mediapipe numpy matplotlib
+
+opencv-python → For webcam input and image processing
+
+mediapipe → For real-time pose detection
+
+numpy → For numerical computations and array handling
+
+matplotlib → For real-time 3D skeleton visualization
