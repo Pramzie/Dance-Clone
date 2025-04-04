@@ -1,4 +1,5 @@
 Dance Clone 🕺💫
+
 A real-time AI-powered dance clone that mirrors your body movements using neon glowing skeletons and a dynamic 3D pose viewer.
 
 Dance Clone is a real-time interactive visual experience that creates a mirrored, glowing stick-figure "clone" of the user as they move in front of a webcam. 
