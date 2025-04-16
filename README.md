@@ -111,7 +111,7 @@ Press `q` to quit the application.
 - OpenCV 4.x
 - MediaPipe 0.10+
 - Matplotlib 3.x
-- Windows/
+- Windows/Linux/MacOS
 
 ---
 
