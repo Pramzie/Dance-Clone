@@ -4,7 +4,7 @@ This project creates a real-time interactive **clone dancer** beside your live w
 
 ---
 
-## 📸 Demo:
+## 📸 Demo
 
 > A mirror-image stick figure clone follows your body movements on screen while the corresponding 3D pose is plotted live.
 
